@@ -1,11 +1,12 @@
 # Raise and Defy Layers
 - Going to  use those Layers for programming.
 - I think Key sequences are superior to Key Chords -> OneShotKeys are great 
-- Things which are Marked Red will be changed to some Kind of macro. Assuming will be able to import the Raise macros to Defy(to lazy to do them for Defy aswell). Other than the R key which will be a Repeat Last Key
+- Things which are Marked Red will be changed to some Kind of macro. Assuming will be able to import the Raise macros to Defy(to lazy to do them for Defy aswell). Other than the R key which will be a Repeat Key
 - When using Home Row mods hate the delay so not gonna use them. 
 - Trying to avoid instantly using same side of Thumb Cluster after using a Layer swap.
 - not sure if I want a dedicated exit layer button or same key which enters exits probably the latter since i want to use OneShotLayer when it makes sense
 - probably will abandon raise stuff when i get my defy
+  
 
 ## Colors
 ![Colors](./imgs/colors.png)
@@ -105,4 +106,5 @@ http://xahlee.info/kbd/keybinding_index.html \
 https://www.youtube.com/watch?v=yiwUjLaebuw \
 https://www.youtube.com/@BenVallack/videos \
 https://www.youtube.com/@BenVallacksKeyboards/videos \
-https://forum.colemak.com/topic/2014-extend-extra-extreme/ 
+https://forum.colemak.com/topic/2014-extend-extra-extreme/ \
+http://colemakmods.github.io/ergonomic-mods/angle.html
