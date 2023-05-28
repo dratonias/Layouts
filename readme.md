@@ -99,7 +99,7 @@ So putting them on the same finger seems logical.
 - stopped using some
 ## Superkeys
 ![Raise_Gaming](./imgs/superkeys.png)
-- mostly using just using tap, hold
+- mostly just using tap, hold
 - also stopped using some 
 ## Stuff you should Checkout
 http://xahlee.info/kbd/keybinding_index.html \
