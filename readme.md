@@ -52,8 +52,8 @@ This currently just goes into timeout without switching back to Layer on OSM pre
 ![Raise_Python](./imgs/raise/python.png)
 ![Defy_Python](./imgs/defy/python.png)
 Super keys of the math symbols are of form\
-Press: +\
-Hold: +=\
+Press: + \
+Hold: += 
 - Symbols are on left thumbcluster since right thumb changes to this Layer.
 
 ## Number
