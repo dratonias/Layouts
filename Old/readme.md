@@ -1,18 +1,9 @@
-## Changed compared to previous
-- removed Symbol Number
-- added modifier Layer
-- changed arrows to be in the more intutive T Layout
-- added some more explanations to the Layers 
-
 # Raise and Defy Layers
-- still not fast with the non QWERTZ Layers but trying to use them more and more
-- the layer numbers of the Raise and Defy don't match (to bothersome to reorder)
-- first planning on Defy then "porting" it over to raise
-- going to use those Layers for programming.
+- Going to  use those Layers for programming.
 - I think Key sequences are superior to Key Chords -> OneShotKeys are great 
 - Things which are Marked Red will be changed to some Kind of macro. Assuming will be able to import the Raise macros to Defy(to lazy to do them for Defy aswell). Other than the R key which will be a Repeat Key
 - When using Home Row mods hate the delay so not gonna use them. 
-- Trying to avoid instantly using same side of Thumb Cluster after swapping to a different Layer.
+- Trying to avoid instantly using same side of Thumb Cluster after using a Layer swap.
 - not sure if I want a dedicated exit layer button or same key which enters exits probably the latter since i want to use OneShotLayer when it makes sense
 - probably will abandon raise stuff when i get my defy
   
@@ -32,8 +23,8 @@ Blue-Green: Math Symbols \
 Bright-Blue: F Keys \
 Blue: Math/Numbers \
 Purple: Textmodify \
-Pink: modifier \
-Grey: move window / Macros / Shortcuts \
+Pink: modifier\
+Grey: not sure yet\
 Black: Nothing 
 
 ## Typing 
@@ -44,28 +35,18 @@ Based on https://www.keyboard-design.com/best-ergo-layouts-all.html
 To be specific: maks-ex.en.ergodox
 
 Used https://www.keybr.com to learn it. Felt great to type while learning it so gonna stick to this one.
-- Shift on the Raise in the usual place to not pick up bad habits before the defy. Since that thumb key doesn't really exist on th Raise.
-- swap to Number Layer as OSL since most of the time you just need 1 or 2 numbers before swapping back. Same goes for Symbols in Programming.
-- F13-F24 gonna be Macros/Shortcuts. Also conssidering changing this to Numbers
-- double tap of OSL to shift typing for capslock
-- I would rather use a OSL for the modifier Layer but OSM does not count as a Keystroke for OSL -> does not switch back Layers 
 
-Macros/Shortcuts will be things like: 
-- Open Specific Aplication (e.g. Browser)
-- Increase/Decrease Monitor brightness
-- Screenshot
-- Mute/Unmute mic
+- Swap to Number Layer as OSL since most of the time you just need 1 or 2 numbers before swapping back. Same goes for Symbols in Programming.
+- Want to consolidate the modifiers, other than shift, into own layer. But only if it is possible to do OSL -> OSM. \
+This currently just goes into timeout without switching back to Layer on OSM press. 
+- F13-F24 gonna be Macros. Also conssidering changing this to Numbers
+- double tap of OSL to shift typing for capslock
 
 ## Shift Typing 
 ![Raise_Shift_Typing](./imgs/raise/shift_typing.png)
 ![Defy_Shift_Typing](./imgs/defy/shift_typing.png)
-- extra layer for this since I want to change the shift behaviour for some symbols
-- when using Capslock majority of times you want to use it only for 1 word so Macro on Space which returns to normal typing Layer.
-
-## Modifier 
-![Raise_Modifier](./imgs/raise/modifier.png)
-![Defy_Modifier](./imgs/defy/modifier.png)
-- shift is in a bad Position since it kinda already exists with the OSL to Shift Typing but having it on there in case I need it for a Shortcut
+- extra layer for this since i want to change the shift behaviour for some symbols
+- When using Capslock majority of times you want to use it only for 1 word so Macro on Space which returns to normal typing Layer.
 
 ## Python
 ![Raise_Python](./imgs/raise/python.png)
@@ -74,8 +55,6 @@ Super keys of the math symbols are of form\
 Press: + \
 Hold: += 
 - Symbols are on left thumbcluster since right thumb changes to this Layer.
-- the idea of this Layer is having consistent keybindings between programming languages (e.g. the logical and Python:AND C++:&&). So don't have to remember the exact syntax for them -> Will change what typing Layer shifts to based on Programming Language I'm using atm
-- also debating just having a plain old Symbol layer  
 
 ## Number
 ![Raise_Number](./imgs/raise/number.png)
@@ -84,17 +63,24 @@ Hold: +=
 - Prefering a row to Numpad style.
 - Logic in placing the number is strongest to weakest finger. Left are even and Right are odd Numbers.
 - Also added hex for color picking etc.
-
+- Not yet sure if I want a OSL to Math symbol Layer or if I'm gonna put them into this Layer 
+## Symbol Number
+![Raise_Symbol_Number](./imgs/raise/symbol_number.png)
+![Defy_Symbol_Number](./imgs/defy/symbol_number.png)
+- like I said not yet sure how to do it 
 ## Arrow/Textediting
 ![Raise_Arrow_Texediting](./imgs/raise/arrow_textediting.png)
 ![Defy_Arrow_Textediting](./imgs/defy/arrow_textediting.png)
-- still need copy/paste but not undecided where to put them
 
+- Top is going out of document (up/left)
+- Bottom is going into (down/right)
+- Trying it like this since there is never a reason to press left and right at the same time. Also applies for up and down.\
+So putting them on the same finger seems logical. 
+- Probably going back to inverted T style arrow keys.
 ## F-keys
 ![Raise_F-Keys](./imgs/raise/f-keys.png)
 ![Defy_F-Keys](./imgs/defy/f-keys.png)
 - not sure how to order them yet
-- almost never use them
 - also add modifiers?
 
 ## Window
@@ -107,17 +93,14 @@ Hold: +=
 ![Raise_Gaming](./imgs/raise/gaming.png)
 ![Defy_Gaming](./imgs/defy/gaming.png)
 - using normal qwertz on raise, but will be using shifted over qwertz on Defy
-- I already used ctrl on capslock before getting the raise. But never used the normal ctrl key. Also never used these Bottom right keys. And using both shift to Type. That's why I put the Arrow Keys so weird.
 
 ## Macros
 ![Macros](./imgs/macros.png)
 - stopped using some
-
 ## Superkeys
 ![Raise_Gaming](./imgs/superkeys.png)
 - mostly just using tap, hold
 - also stopped using some 
-
 ## Stuff you should Checkout
 http://xahlee.info/kbd/keybinding_index.html \
 https://www.youtube.com/watch?v=yiwUjLaebuw \
